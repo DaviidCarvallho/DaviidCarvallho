@@ -108,7 +108,7 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DaviidCarvallho&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
-### 🏆 Troféus
+## 🏆 Troféus
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviidCarvallho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />

@@ -5,7 +5,7 @@
 <!-- Texto digitando -->
 <p align="center">
   <a href="https://github.com/DaviidCarvallho">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Licenciando+em+Computa%C3%A7%C3%A3o+%40+UPE+Garanhuns;Intelig%C3%AAncia+Artificial+%7C+Ci%C3%AAncia+de+Dados;Tecnologias+Educacionais+%7C+Computa%C3%A7%C3%A3o+na+Educa%C3%A7%C3%A3o;Python+%E2%80%A2+Java+%E2%80%A2+TypeScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Licenciando+em+Computa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%7C+Ci%C3%AAncia+de+Dados;Tecnologias+Educacionais+%7C+Computa%C3%A7%C3%A3o+na+Educa%C3%A7%C3%A3o;Python+%E2%80%A2+Java+%E2%80%A2+TypeScript" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 ---
  
-### 🧑‍💻 Sobre mim
+<h3>🧑‍💻 Sobre mim</h3>
  
 Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco (UPE)**, com experiência em pesquisa, extensão universitária, desenvolvimento de software e formação docente. Participo de projetos nas áreas de **Inteligência Artificial**, **Ciência de Dados**, **Tecnologias Educacionais** e **Computação na Educação**, desenvolvendo soluções tecnológicas e contribuindo para iniciativas de ensino e inovação.
  
@@ -25,7 +25,7 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 - 📫 Contato: **davijcarvalho07@gmail.com**
 ---
  
-### 🌐 Conecte-se comigo
+<h3>🌐 Conecte-se comigo</h3>
  
 <p align="left">
   <a href="mailto:davijcarvalho07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -35,7 +35,7 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 </p>
 ---
  
-### 🛠️ Linguagens e ferramentas
+<h3>🛠️ Linguagens e ferramentas</h3>
  
 **Linguagens**
  
@@ -63,7 +63,7 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 </p>
 ---
  
-### 🚀 Projetos em destaque
+<h3>🚀 Projetos em destaque</h3>
  
 <details open>
 <summary><b>🤖 Inteligência Artificial e Ciência de Dados</b></summary>
@@ -99,7 +99,7 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 </details>
 ---
  
-### 📊 Estatísticas no GitHub
+<h3>📊 Estatísticas no GitHub</h3>
  
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DaviidCarvallho&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" />
@@ -108,12 +108,12 @@ Graduando em **Licenciatura em Computação** pela **Universidade de Pernambuco 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DaviidCarvallho&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </p>
-## 🏆 Troféus
+<h3>🏆 Troféus</h3>
  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DaviidCarvallho&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </p>
-### 📅 Atividade
+<h3>📅 Atividade</h3>
  
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DaviidCarvallho&theme=tokyo-night&hide_border=true&area=true" />
